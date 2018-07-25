@@ -1,0 +1,21 @@
+PODS:
+  - FlatUIKit (1.6.2)
+  - MBProgressHUD (1.0.0)
+  - OpenCV (3.0.0)
+  - TesseractOCRiOS (4.0.0)
+
+DEPENDENCIES:
+  - FlatUIKit
+  - MBProgressHUD (~> 1.0.0)
+  - OpenCV
+  - TesseractOCRiOS (= 4.0.0)
+
+SPEC CHECKSUMS:
+  FlatUIKit: 1b41f0d4952ce8d970d8479ce79df54a960242c4
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  OpenCV: be07c02f0d8f125f1d40d261e66a66cb66ece3b3
+  TesseractOCRiOS: 90638afbe43d082433f2e76b384c7901d23956df
+
+PODFILE CHECKSUM: 9ecdae003d26459dde1bd4351e3264fa1371ec65
+
+COCOAPODS: 1.0.0

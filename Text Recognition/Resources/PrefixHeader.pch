@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  Text Recognition
+//
+//  Created by Alvin Resmana on 12/27/16.
+//  Copyright © 2016 xeravim. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#ifdef __cplusplus
+#include <opencv2/opencv.hpp>
+#endif”
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
